@@ -88,10 +88,13 @@ C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUnivers
 C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csproj.CopyComplete
 C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.dll
 C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.pdb
-C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csprojAssemblyReference.cache
 C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\bin\PagedList.dll
 C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.dll
 C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\bin\PagedList.xml
 C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.xml
 C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.Migrations.InitialCreate.resources
 C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csproj.GenerateResource.cache
+C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csprojAssemblyReference.cache
+C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.Migrations.ColumnFirstName.resources
+C:\Users\CJCUTW\Source\Repos\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.Migrations.ComplexDataModel.resources
